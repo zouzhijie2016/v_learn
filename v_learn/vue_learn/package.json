@@ -1,9 +1,4 @@
 {
-  "version": "0.0.3",
-  "repository": {
-    "type": "git",
-    "url": " http://10.250.160.6:4873/bim_web.git"
-  },
   "scripts": {
     "start": "npm run dev",
     "dev": "cross-env NODE_ENV=development node server/server.js",
